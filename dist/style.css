@@ -1,3 +1,28 @@
 h2 {
     color:red;
 }
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    min-height: 200px;
+    background-color: blanchedalmond;
+    padding: 1rem;
+}
+nav {
+    margin-left: 50px;
+}
+nav a {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+    min-width: 200px;
+    text-align: center;
+    padding: 1rem;
+}
+nav a:hover {
+    background-color: black;
+    color: white;
+}
