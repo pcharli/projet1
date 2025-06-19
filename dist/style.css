@@ -1,3 +1,12 @@
 h2 {
     color:red;
 }
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+    background-color: silver;
+    min-height: 120px;
+    text-align: center;
+    line-height: 120px;
+}
